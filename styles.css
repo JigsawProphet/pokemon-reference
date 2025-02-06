@@ -47,7 +47,7 @@ p, li {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  gap: 5px;
+  gap: 10px;
   max-width: 5000px;
   margin: 0 0;
   padding: 5px 5px;
